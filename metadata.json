@@ -1,0 +1,8 @@
+{
+  "name": "OSGB Eğitim Rezervasyonu",
+  "description": "İşyeri türü ve ulaşım şekline göre dinamik gün ve saat seçenekleri sunan eğitim rezervasyon sistemi.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
