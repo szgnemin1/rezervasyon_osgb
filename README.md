@@ -70,7 +70,7 @@ Projeyi sunucunuzda `/var/www/` dizini altına veya tercih ettiğiniz bir klasö
 
 ```bash
 cd /var/www
-git clone <depo_adresi> osgb-rezervasyon
+git clone https://github.com/szgnemin1/rezervasyon_osgb osgb-rezervasyon
 cd osgb-rezervasyon
 
 # npm paketlerinin kurulması
